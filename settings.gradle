@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Elyryde"
+rootProject.name = "Locate_EV"
